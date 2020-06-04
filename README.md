@@ -12,7 +12,7 @@ Se va a almacenar todo lo relacionado a sistemas distribuidos
 
 ### Systems engineering student projects at the San Buenaventura University
 
-![](https://i.servimg.com/u/f18/19/27/49/47/35527711.jpg)
+![](https://mk0criptonoticijjgfa.kinstacdn.com/wp-content/uploads/2018/04/blockchain-base-datos-distribuida-descentralizada.jpeg)
 
 ### Menu
 
