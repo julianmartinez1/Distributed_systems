@@ -1,6 +1,7 @@
 # Distributed_systems
 
-Se va a almacenar todo lo relacionado a sistemas distribuidos
+
+Everything related to distributed systems will be stored here.
 
 
 
@@ -16,8 +17,8 @@ Se va a almacenar todo lo relacionado a sistemas distribuidos
 
 ### Menu
 
-[Bitacoras](https://github.com/julianmartinez1/Distributed_systems/tree/master/Bitacoras)
+[binnacle](https://github.com/julianmartinez1/Distributed_systems/tree/master/Bitacoras)
 
-[Aplicaciones RMI](https://github.com/julianmartinez1/Distributed_systems/tree/master/RMI)
+[RMI applications](https://github.com/julianmartinez1/Distributed_systems/tree/master/RMI)
 
-[Aplicaciones Web Services](https://github.com/julianmartinez1/Distributed_systems/tree/master/WEB%20services)
+[Web Services applications](https://github.com/julianmartinez1/Distributed_systems/tree/master/WEB%20services)
