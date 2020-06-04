@@ -17,7 +17,7 @@ Everything related to distributed systems will be stored here.
 
 ### Menu
 
-[binnacle](https://github.com/julianmartinez1/Distributed_systems/tree/master/Bitacoras)
+[Binnacle](https://github.com/julianmartinez1/Distributed_systems/tree/master/Bitacoras)
 
 [RMI applications](https://github.com/julianmartinez1/Distributed_systems/tree/master/RMI)
 
