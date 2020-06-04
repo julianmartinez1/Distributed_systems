@@ -1,4 +1,4 @@
-# Distributed_systems
+# Distributed systems
 
 
 Everything related to distributed systems will be stored here.
